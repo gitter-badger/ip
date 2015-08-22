@@ -1,5 +1,7 @@
 # STUN IP Address requests for WebRTC
 
+[![Join the chat at https://gitter.im/FISA-TW/ip](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FISA-TW/ip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Demo: https://diafygi.github.io/webrtc-ips/
 
 ### What this does
